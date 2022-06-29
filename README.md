@@ -1,6 +1,6 @@
 # nlp-with-disaster-tweets
 
-Develop a model to predict if a tweet is about a genuine disaster
+Develop a model to predict if a tweet is about a genuine disaster using NLP techniques and SGDClassifier
 
 [Competition](https://www.kaggle.com/c/nlp-getting-started)
 
